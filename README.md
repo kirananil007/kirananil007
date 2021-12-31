@@ -20,6 +20,7 @@ src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&l
 src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" alt="medium" 
 src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+<br>
 <img align="left" alt="medium" 
 src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img align="left" alt="medium" 
