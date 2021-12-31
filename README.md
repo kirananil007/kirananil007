@@ -10,6 +10,6 @@ My name is Kiran Anil and I'm a devops engineer! 👋
 
 ### Languages and Tools:
 
-[<img align="left" alt="medium" 
-src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />]
+<img align="left" alt="medium" 
+src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
