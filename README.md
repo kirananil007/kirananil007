@@ -34,5 +34,7 @@ src="https://avatars.githubusercontent.com/u/499942?s=200&v=4" />
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 <img align="left" alt="vault" width="30px" 
 src="https://github.com/hashicorp/vault/blob/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png" />
+<img align="left" alt="Linux" width="30px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 
