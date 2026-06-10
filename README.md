@@ -28,6 +28,16 @@
 
 ## 🛠️ Tech Stack
 
+**AI / ML Platform**
+
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logo=langfuse&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant%20Vector%20DB-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=langgraph&logoColor=white)
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
